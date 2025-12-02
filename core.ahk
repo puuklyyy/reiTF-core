@@ -13,6 +13,11 @@ GetAuthorCredit() {
     return "Made by reeeii"
 }
 
+GetThanksCredit() {
+    ; This credit is displayed in the GUI
+    return "Thanks to .puukly"
+}
+
 GetScriptVersion() {
     ; Version tracking
     return "1.0"
